@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0f1ed2a-e47b-4d93-9411-53461728b350" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJ8CFsD15e8owbXvEXGIoIAtug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.problem2">
+    <configuration name="problem1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_.problem1" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem1x (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_.problem1x" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_.problem2" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2_.problem3" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prolem2s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6_.prolem2s" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_6_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.prolem2s" />
+        <item itemvalue="Application.problem3" />
+        <item itemvalue="Application.problem1x (2)" />
+        <item itemvalue="Application.problem1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f1ed2a-e47b-4d93-9411-53461728b350" name="Default Changelist" comment="" />
+      <created>1599717704261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599717704261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1605171776621">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="180" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1605171776621" />
+    <state x="400" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605778683482">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="400" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.920@0.0.1440.920" timestamp="1605778683482" />
+    <state x="451" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610670270611">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1610670270611" />
+    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1612435537023">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1612435537023" />
+    <state width="1397" height="158" key="GridCell.Tab.0.bottom" timestamp="1610676454158">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="158" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1610676454158" />
+    <state width="1397" height="158" key="GridCell.Tab.0.center" timestamp="1610676454158">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="158" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1610676454158" />
+    <state width="1397" height="158" key="GridCell.Tab.0.left" timestamp="1610676454158">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="158" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1610676454158" />
+    <state width="1397" height="158" key="GridCell.Tab.0.right" timestamp="1610676454158">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="158" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1610676454158" />
+    <state width="1397" height="280" key="GridCell.Tab.1.bottom" timestamp="1608804133640">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1608804133640" />
+    <state width="1397" height="280" key="GridCell.Tab.1.center" timestamp="1608804133640">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1608804133640" />
+    <state width="1397" height="280" key="GridCell.Tab.1.left" timestamp="1608804133640">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1608804133640" />
+    <state width="1397" height="280" key="GridCell.Tab.1.right" timestamp="1608804133640">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1608804133640" />
+    <state x="217" y="105" key="SettingsEditor" timestamp="1605165457741">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="217" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1605165457741" />
+    <state x="442" y="202" width="561" height="524" key="StructurePopup" timestamp="1610709752818">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="442" y="202" width="561" height="524" key="StructurePopup/0.0.1440.920@0.0.1440.920" timestamp="1610709752818" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1608802867522">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1608802867522" />
+  </component>
+</project>
