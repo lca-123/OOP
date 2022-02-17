@@ -18,5 +18,6 @@ public class problem2 {
         Collections.sort(integers);
         System.out.println(integers.get(n-1)+integers.get(n-2));
         //这里是王天翼添加的无用信息
+        //我又加了一条无用信息
     }
 }
