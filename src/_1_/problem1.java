@@ -14,5 +14,6 @@ public class problem1 {
             sum+=sc.nextInt();
         }
         System.out.println(sum);
+        //这里是主分支直接做修改
     }
 }
