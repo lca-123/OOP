@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0f1ed2a-e47b-4d93-9411-53461728b350" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/META-INF/OOP.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_10_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_10_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_10_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_10_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_11_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_11_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_11_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_11_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_12_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_12_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_12_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_12_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_13_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_13_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_13_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_13_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_14_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_14_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_15_/problem1x$Punish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_15_/problem1x$Punish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_15_/problem1x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_15_/problem1x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_7_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_7_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_7_/problem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_7_/problem3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_8_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_8_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_8_/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_8_/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_9_/item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_9_/item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_9_/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_9_/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/_9_/problem2x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/_9_/problem2x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/bfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/mid/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/mid/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/mid/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/mid/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/mid/problem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/mid/problem3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/problem1x.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +37,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.problem2">
-    <configuration name="problem1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_.problem1" />
+  <component name="RunManager" selected="Application.Text">
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text" />
       <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_15_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Text" />
         <item itemvalue="Application.problem2" />
         <item itemvalue="Application.prolem2s" />
         <item itemvalue="Application.problem3" />
         <item itemvalue="Application.problem1x (2)" />
-        <item itemvalue="Application.problem1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,10 +120,22 @@
       <updated>1599717704261</updated>
       <workItem from="1642753278442" duration="227000" />
       <workItem from="1642754421416" duration="97000" />
+      <workItem from="1648104276766" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
